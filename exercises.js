@@ -18,6 +18,10 @@ If/else statements = Evaluates (or checks) a condition. If the condition is true
 };*/
 
 
+
+console.log('aloha aloha');
+
+
 /*
  * #1
  * Function - canVote
