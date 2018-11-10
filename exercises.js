@@ -19,8 +19,10 @@ If/else statements = Evaluates (or checks) a condition. If the condition is true
 
 
 
-console.log('aloha aloha');
+console.log('one two three');
 
+
+var event = 'backyard BBQ at kakaako'
 
 /*
  * #1
