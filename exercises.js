@@ -60,7 +60,7 @@ console.log("1. canVote: ", canVote(10));
  * Console.log your result.
 */
 function login(password){
-  if(password === "test yo 1234"){
+  if(password === "test yoooooooo 1234"){
     return "Login Success!";
   
   }
