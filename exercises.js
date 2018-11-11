@@ -21,8 +21,8 @@ If/else statements = Evaluates (or checks) a condition. If the condition is true
 
 console.log('one two three');
 
+var event = 'yaaaaaaas';
 
-var event = 'backyard BBQ at kakaako'
 
 /*
  * #1
@@ -34,6 +34,16 @@ var event = 'backyard BBQ at kakaako'
  *
  * The function will return true if the number passed into the function is equal to or greater than Hawaii's voting age. Console.log your result.
 */
+
+function canVote(age){
+   if(age >= 18){
+     return true;
+   }else{
+     return false;
+   }
+}
+
+console.log("1. canVote: ", canVote(19));
 
 
 /*
