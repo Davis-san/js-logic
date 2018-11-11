@@ -21,7 +21,8 @@ If/else statements = Evaluates (or checks) a condition. If the condition is true
 
 console.log('one two three');
 
-var event = 'yaaaaaaas';
+var event = 'nooooooo nooooooo';
+
 
 
 /*
@@ -43,7 +44,8 @@ function canVote(age){
    }
 }
 
-console.log("1. canVote: ", canVote(19));
+console.log("1. canVote: ", canVote(10));
+
 
 
 /*
