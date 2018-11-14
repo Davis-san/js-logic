@@ -83,6 +83,15 @@ console.log(login("test yo 1234"));
  * Console.log your result.
 */
 
+function isGreaterThan(first, second)}
+  if(first > second){
+    return true;
+  }
+}
+console.log(isGreaterThan(3, 1));
+
+var ShowResult = isGreaterThan(5, 1);
+console.log("isGreaterThan: ", showResult);
 
 
 /*
