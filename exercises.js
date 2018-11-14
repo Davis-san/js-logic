@@ -61,7 +61,7 @@ console.log("1. canVote: ", canVote(10));
 */
 
 function login(password){
-  if(password === "Let's do thissssssss")
+  if(password === "Let's do thissssssss"){
     return "Login Success!";
   
   }
@@ -171,6 +171,15 @@ function bigBird(word){
   }
 }
 console.log("bigBird: ", bigBird("cat"));
+
+//round three//
+function bigBird(word){
+  if(word.length == 3){
+    return "Word to Big Bird!";
+
+  }
+}
+console.log("bigBird: ", bigBird('cat'));
 
 
 
@@ -325,6 +334,12 @@ for (var i = 0; i<toyotaModels.length; i++){
    console.log("Toyota " + toyotaModels[i]);
 }
 
+//Round one
+var chevyModels = ["Impala 60", "Impala 61", "Impala 62", "Impala 63", "Impala 64", "Impala 65"];
+
+for (var i = 0; i<chevyModels.length; i++){
+   console.log("Chevy " + chevyModels[i]);
+}
 
 /* 
  * #15
