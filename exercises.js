@@ -116,6 +116,17 @@ console.log("isGreaterThean", showResult);
  * The function will return true if the value passed into the function is "true".
  * Console.log your result.
 */
+function mustBeTrue(boo){
+  if(boo === true){
+    return true;
+  }else{
+    return false;
+  }
+}
+console.log("mustBeTrue: ", mustBeTrue(true));
+
+
+}
 
 
 
