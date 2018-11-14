@@ -125,8 +125,19 @@ function mustBeTrue(boo){
 }
 console.log("mustBeTrue: ", mustBeTrue(true));
 
+//round two//
+function mustBeTrue(boo){
+  if(boo === true){
+    return true;
+  }else{
+    return false;
 
+  }
 }
+console.log("mustBeTrue: ", mustBeTrue(true));
+
+
+
 
 
 
