@@ -59,8 +59,9 @@ console.log("1. canVote: ", canVote(10));
  * The function will return the message: "Login Success!", if the string passed into the function is "test1234"
  * Console.log your result.
 */
+
 function login(password){
-  if(password === "test test test 1234"){
+  if(password === "Let's do thissssssss")
     return "Login Success!";
   
   }
