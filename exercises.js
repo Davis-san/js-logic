@@ -136,6 +136,17 @@ function mustBeTrue(boo){
 }
 console.log("mustBeTrue: ", mustBeTrue(true));
 
+//round three//
+function mustBeTrue(boo){
+if(boo === true){
+  return true;
+}else{
+  return false;
+
+}
+}
+console.log("mustBeTrue: ", mustBeTrue(true));
+
 
 
 
